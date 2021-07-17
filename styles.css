@@ -1,0 +1,30 @@
+.nav-bar {
+    background-color: black;
+    overflow: hidden;
+}
+.nav-bar a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 20px 110px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.nav-bar a.active {
+    background-color: green;
+    color: white;
+}
+.nav-bar a:hover {
+    background-color: gainsboro;
+    color: black;
+}
+.header div.img {
+    padding: 14px 16px;
+    width: 100%;
+    height: auto;
+}
+.header div.h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align: right;
+}
