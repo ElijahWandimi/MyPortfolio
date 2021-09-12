@@ -26,10 +26,6 @@ li {
     list-style-type: none;
 }
 
-img {
-    width: 15%;
-}
-
 .header {
     height: 530px;
     /*background: url(Coder.png) no-repeat center center / cover;*/
@@ -61,11 +57,13 @@ img {
     margin-top: 25px;
 }
 .header .header-text-1 {
-    font-size: 22px;
+    font-size: 36px;
     font-weight: bold;
+    padding: 20px, 0px;
 }
 
 .header .header-text-2 {
     font-size: 20px;
     margin: 25px, 0px;
+    padding: 10px, 0px;
 }
